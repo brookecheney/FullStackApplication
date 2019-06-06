@@ -11,6 +11,9 @@
     "reset": "prisma reset --force",
     "delete": "prisma delete --force"
   },
+   "engines": {
+    "node": "0.12.7"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
