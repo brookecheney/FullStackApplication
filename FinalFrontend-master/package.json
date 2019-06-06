@@ -9,6 +9,9 @@
     "apollo": "vue-cli-service apollo:watch",
     "apollo:run": "vue-cli-service apollo:run"
   },
+   "engines": {
+    "node": "0.12.7"
+  },
   "dependencies": {
     "buefy": "^0.7.5",
     "core-js": "^2.6.5",
